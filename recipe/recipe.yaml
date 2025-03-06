@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/ami-iit/resolve-robotics-uri-cpp/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 83d60dd1ce9f450137cc36c880159e48cdefc0deff0e41235157a544025f99d3
+  sha256: 03c73cdda8ec2f0730d375639a9eb20b0c9a3182153bae74c96dc706e906cc75
 
 build:
   number: 0

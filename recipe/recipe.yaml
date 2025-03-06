@@ -24,6 +24,7 @@ requirements:
     - pkg-config
     - ninja
   host:
+    - ycm-cmake-modules
     - catch2
 
 tests:

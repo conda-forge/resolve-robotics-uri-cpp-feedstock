@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: libresolve-robotics-uri-cpp
-  version: 0.0.2
+  version: 0.0.3
 
 package:
   name: ${{ name }}
@@ -13,7 +13,7 @@ source:
   sha256: 83d60dd1ce9f450137cc36c880159e48cdefc0deff0e41235157a544025f99d3
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:

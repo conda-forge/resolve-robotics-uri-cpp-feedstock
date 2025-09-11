@@ -26,6 +26,7 @@ requirements:
   host:
     - ycm-cmake-modules
     - catch2
+    - py-opencv
 
 tests:
   - requirements:

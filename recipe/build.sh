@@ -1,5 +1,7 @@
 #!/bin/sh
 
+python -c "import cv2"
+
 rm -rf build
 mkdir build
 cd build

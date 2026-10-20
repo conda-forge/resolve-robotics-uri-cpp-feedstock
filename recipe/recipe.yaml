@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: libresolve-robotics-uri-cpp
-  version: "0.1.0"
+  version: "0.6.0"
 
 package:
   name: ${{ name }}
@@ -10,10 +10,10 @@ package:
 
 source:
   url: https://github.com/ami-iit/resolve-robotics-uri-cpp/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: dcbc5d678990e1d76817e3d1cbbeadfaff9c1bc1e435c1658b1a446e5aff136f
+  sha256: 23312f7cefa1aaa579e1a504a59ef390bcbcdd53398d814ae34fcea63dab4d91
 
 build:
-  number: 2
+  number: 0
 
 requirements:
   build:

@@ -44,7 +44,7 @@ about:
   license: BSD-3-Clause
   license_file: LICENSE
   summary: Resolve a package:// or model:// URI to an absolute filename in C++.
-  homepage: https://github.com/ami-iit/resolve-robotics-uri-cpp
+  homepage: https://github.com/gbionics/resolve-robotics-uri-cpp
 
 extra:
   feedstock-name: resolve-robotics-uri-cpp
